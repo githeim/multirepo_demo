@@ -8,7 +8,6 @@
   <project name="wh_tmpl"  
            path="dev/wh_tmpl" 
            revision="master" 
-           clone-depth="1"
            />
   <!-- the following is for the reference of the project
     project name="template"  
